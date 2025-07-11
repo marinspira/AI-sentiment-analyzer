@@ -23,8 +23,8 @@ Analyze the sentiment of sentences using AI through the OpenRouter API. This lig
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/ai-tweet-analyzer.git
-cd ai-tweet-analyzer
+git clone https://github.com/marinspira/AI-sentiment-analyzer.git
+cd ai-sentiment-analyzer
 ```
 
 ### 2. Install Dependencies
